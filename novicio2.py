@@ -1,2 +1,2 @@
-print(HooOoOla)
+print("HooOoOla")
 #SSISIISSISI#
